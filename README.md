@@ -1,6 +1,6 @@
 # network-intrusion-detection-comparative-study
 Comparative study of XGBoost, MLP, and CNN-LSTM for Network Intrusion Detection using CICIDS2017 dataset
-```markdown
+
 # 🚀 Network Intrusion Detection System (Comparative Study)
 
 ## 📌 Overview
@@ -168,11 +168,11 @@ nids-comparative/
 
 ## ⚙️ Installation
 
-```bash
+bash
 git clone https://github.com/YOUR_USERNAME/network-intrusion-detection-comparative-study.git
 cd network-intrusion-detection-comparative-study
 pip install -r requirements.txt
-````
+
 
 ---
 
@@ -180,10 +180,10 @@ pip install -r requirements.txt
 
 Run Jupyter notebooks:
 
-```bash
+bash
 cd notebooks
 jupyter notebook
-```
+
 
 ---
 
